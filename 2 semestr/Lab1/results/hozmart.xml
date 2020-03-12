@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shop>
+  <product>
+    <description>Бензопила Gator GS-52, 52cc, Гатор (GS-52)</description>
+    <price>1 977 грн.</price>
+    <image>https://www.hozmart.com.ua/13719-home_default/benzopila-gator-gs-52-52cc.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Sadko GCS-254, Садко (8013172)</description>
+    <price>2 309 грн.</price>
+    <image>https://www.hozmart.com.ua/655-home_default/benzopyla-sadko-gcs-254.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Saber SC-52, Сабер (SC-52)</description>
+    <price>2 404 грн.</price>
+    <image>https://www.hozmart.com.ua/13717-home_default/benzopyla-saber-sc-52.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Sadko GCS-510E, Садко (8009303)</description>
+    <price>2 411 грн.</price>
+    <image>https://www.hozmart.com.ua/499-home_default/benzopyla-sadko-gcs-510e.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Sadko GCS-560E, Садко (8009894)</description>
+    <price>2 569 грн.</price>
+    <image>https://www.hozmart.com.ua/611-home_default/benzopyla-sadko-gcs-560e.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Sadko GCS-510E (2 шини та 2 ланцюга - 16" та 18"), Садко (8013897)</description>
+    <price>2 619 грн.</price>
+    <image>https://www.hozmart.com.ua/6597-home_default/benzopyla-sadko-gcs-510e-2-shyny-ta-2-lantsyuga-16-ta-18.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Partner P340S, Партнер (9666990-01)</description>
+    <price>2 624 грн.</price>
+    <image>https://www.hozmart.com.ua/246-home_default/benzopyla-partner-p340s.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Saber SC-45ES, Сабер (SC-45ES)</description>
+    <price>2 802 грн.</price>
+    <image>https://www.hozmart.com.ua/13721-home_default/benzopyla-saber-sc-52.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Sadko GCS-560E (2 шини та 2 ланцюга - 18" та 20"), Садко (8013898)</description>
+    <price>2 844 грн.</price>
+    <image>https://www.hozmart.com.ua/6599-home_default/benzopyla-sadko-gcs-560e-2-shyny-ta-2-lantsyuga-18-ta-20.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Partner P350S, Партнер (9666991-02)</description>
+    <price>3 359 грн.</price>
+    <image>https://www.hozmart.com.ua/249-home_default/benzopyla-partner-p350s.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Partner P360S, Партнер (9666992-01)</description>
+    <price>3 399 грн.</price>
+    <image>https://www.hozmart.com.ua/248-home_default/benzopyla-partner-p360s.jpg</image>
+  </product>
+  <product>
+    <description>Бензопила Sadko MGCS-500, Садко (8009862)</description>
+    <price>3 642 грн.</price>
+    <image>https://www.hozmart.com.ua/613-home_default/benzopyla-sadko-mgcs-500.jpg</image>
+  </product>
+</shop>
