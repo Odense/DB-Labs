@@ -1,0 +1,1 @@
+gnome-terminal --tab --command="bash -c 'cd ..; python3 start_journal.py; $SHELL'"

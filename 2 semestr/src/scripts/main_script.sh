@@ -1,0 +1,1 @@
+gnome-terminal --tab --command="bash -c 'sh run_journal.sh; sh run_cui.sh; sh run_worker.sh $SHELL'"
